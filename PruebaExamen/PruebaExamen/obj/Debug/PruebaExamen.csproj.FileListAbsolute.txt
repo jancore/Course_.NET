@@ -1,0 +1,7 @@
+c:\users\antoniojavier\source\repos\PruebaExamen\PruebaExamen\bin\Debug\PruebaExamen.exe.config
+c:\users\antoniojavier\source\repos\PruebaExamen\PruebaExamen\bin\Debug\PruebaExamen.exe
+c:\users\antoniojavier\source\repos\PruebaExamen\PruebaExamen\bin\Debug\PruebaExamen.pdb
+c:\users\antoniojavier\source\repos\PruebaExamen\PruebaExamen\obj\Debug\PruebaExamen.csprojResolveAssemblyReference.cache
+c:\users\antoniojavier\source\repos\PruebaExamen\PruebaExamen\obj\Debug\PruebaExamen.csproj.CoreCompileInputs.cache
+c:\users\antoniojavier\source\repos\PruebaExamen\PruebaExamen\obj\Debug\PruebaExamen.exe
+c:\users\antoniojavier\source\repos\PruebaExamen\PruebaExamen\obj\Debug\PruebaExamen.pdb
