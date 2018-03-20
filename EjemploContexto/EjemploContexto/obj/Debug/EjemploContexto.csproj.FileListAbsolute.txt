@@ -1,0 +1,14 @@
+c:\users\usuario\source\repos\EjemploContexto\EjemploContexto\bin\Debug\EjemploContexto.exe.config
+c:\users\usuario\source\repos\EjemploContexto\EjemploContexto\bin\Debug\EjemploContexto.exe
+c:\users\usuario\source\repos\EjemploContexto\EjemploContexto\bin\Debug\EjemploContexto.pdb
+c:\users\usuario\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.exe
+c:\users\usuario\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.pdb
+C:\Users\AntonioJavier\source\repos\EjemploContexto\EjemploContexto\bin\Debug\EjemploContexto.exe.config
+C:\Users\AntonioJavier\source\repos\EjemploContexto\EjemploContexto\bin\Debug\EjemploContexto.exe
+C:\Users\AntonioJavier\source\repos\EjemploContexto\EjemploContexto\bin\Debug\EjemploContexto.pdb
+C:\Users\AntonioJavier\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.csprojResolveAssemblyReference.cache
+C:\Users\AntonioJavier\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.csproj.CoreCompileInputs.cache
+C:\Users\AntonioJavier\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.exe
+C:\Users\AntonioJavier\source\repos\EjemploContexto\EjemploContexto\obj\Debug\EjemploContexto.pdb

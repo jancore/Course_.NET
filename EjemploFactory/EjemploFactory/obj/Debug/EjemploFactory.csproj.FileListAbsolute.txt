@@ -1,0 +1,7 @@
+C:\Users\AntonioJavier\source\repos\EjemploFactory\EjemploFactory\obj\Debug\EjemploFactory.csprojResolveAssemblyReference.cache
+C:\Users\AntonioJavier\source\repos\EjemploFactory\EjemploFactory\obj\Debug\EjemploFactory.csproj.CoreCompileInputs.cache
+C:\Users\AntonioJavier\source\repos\EjemploFactory\EjemploFactory\bin\Debug\EjemploFactory.exe.config
+C:\Users\AntonioJavier\source\repos\EjemploFactory\EjemploFactory\bin\Debug\EjemploFactory.exe
+C:\Users\AntonioJavier\source\repos\EjemploFactory\EjemploFactory\bin\Debug\EjemploFactory.pdb
+C:\Users\AntonioJavier\source\repos\EjemploFactory\EjemploFactory\obj\Debug\EjemploFactory.exe
+C:\Users\AntonioJavier\source\repos\EjemploFactory\EjemploFactory\obj\Debug\EjemploFactory.pdb

@@ -1,0 +1,14 @@
+c:\users\usuario\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\EjemploReflexion\EjemploReflexion\bin\Debug\EjemploReflexion.exe.config
+c:\users\usuario\source\repos\EjemploReflexion\EjemploReflexion\bin\Debug\EjemploReflexion.exe
+c:\users\usuario\source\repos\EjemploReflexion\EjemploReflexion\bin\Debug\EjemploReflexion.pdb
+c:\users\usuario\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.exe
+c:\users\usuario\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.pdb
+C:\Users\AntonioJavier\source\repos\EjemploReflexion\EjemploReflexion\bin\Debug\EjemploReflexion.exe.config
+C:\Users\AntonioJavier\source\repos\EjemploReflexion\EjemploReflexion\bin\Debug\EjemploReflexion.exe
+C:\Users\AntonioJavier\source\repos\EjemploReflexion\EjemploReflexion\bin\Debug\EjemploReflexion.pdb
+C:\Users\AntonioJavier\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.csprojResolveAssemblyReference.cache
+C:\Users\AntonioJavier\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.csproj.CoreCompileInputs.cache
+C:\Users\AntonioJavier\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.exe
+C:\Users\AntonioJavier\source\repos\EjemploReflexion\EjemploReflexion\obj\Debug\EjemploReflexion.pdb

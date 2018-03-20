@@ -1,0 +1,7 @@
+C:\Users\AntonioJavier\source\repos\EjemploSingleton\EjemploSingleton\bin\Debug\EjemploSingleton.exe.config
+C:\Users\AntonioJavier\source\repos\EjemploSingleton\EjemploSingleton\bin\Debug\EjemploSingleton.exe
+C:\Users\AntonioJavier\source\repos\EjemploSingleton\EjemploSingleton\bin\Debug\EjemploSingleton.pdb
+C:\Users\AntonioJavier\source\repos\EjemploSingleton\EjemploSingleton\obj\Debug\EjemploSingleton.csprojResolveAssemblyReference.cache
+C:\Users\AntonioJavier\source\repos\EjemploSingleton\EjemploSingleton\obj\Debug\EjemploSingleton.csproj.CoreCompileInputs.cache
+C:\Users\AntonioJavier\source\repos\EjemploSingleton\EjemploSingleton\obj\Debug\EjemploSingleton.exe
+C:\Users\AntonioJavier\source\repos\EjemploSingleton\EjemploSingleton\obj\Debug\EjemploSingleton.pdb
