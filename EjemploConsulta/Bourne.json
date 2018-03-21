@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"description": "Selecciona una pizza",
+		"sql": "select Id, Name from Pizza where Id:@id",
+		"params":[
+			{
+				"name": "@id",
+				"type": "int"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"description": "Modifique una pizza",
+		"sql": "update Pizza set Name = @name",
+		"params": [
+			{
+				"name": "@id",
+				"type": "int"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"description": "Borrar una pizza",
+		"sql": "delete from Pizza where Name = @name",
+		"params": [
+			{
+				"name": "@id",
+				"type": "int"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"description": "Añadir una pizza",
+		"sql": "insert into Pizza(Id,Name) values(@id,@name)",
+		"params": [
+			{
+				"name": "@id",
+				"type": "int"
+			}
+		]
+	}
+]

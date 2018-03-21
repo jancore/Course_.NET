@@ -1,0 +1,10 @@
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\bin\Debug\EjemploConsulta.exe.config
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\bin\Debug\EjemploConsulta.exe
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\bin\Debug\EjemploConsulta.pdb
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\bin\Debug\Newtonsoft.Json.dll
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\bin\Debug\Newtonsoft.Json.xml
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\obj\Debug\EjemploConsulta.csprojResolveAssemblyReference.cache
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\obj\Debug\EjemploConsulta.csproj.CoreCompileInputs.cache
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\obj\Debug\EjemploConsulta.csproj.CopyComplete
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\obj\Debug\EjemploConsulta.exe
+c:\users\antoniojavier\source\repos\EjemploConsulta\EjemploConsulta\obj\Debug\EjemploConsulta.pdb
